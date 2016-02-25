@@ -86,3 +86,6 @@ $on-laptop:        800px;
 * html .clearfix { height: 1%; }
 .clearfix { display: block; }
 /* close commented backslash hack */
+td {
+    vertical-align: top;
+}
