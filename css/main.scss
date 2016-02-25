@@ -51,3 +51,24 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+.left-col {
+    float:left;
+    width:30%;
+    margin-right:5%;
+}
+.right-col {
+    width: 65%;
+    float:right;
+}
+.left-col img {
+    width:100%;
+}
+.album {
+    width:49%;
+}
+.album:nth-of-type(odd) {
+    margin-right:1%;
+}
+.album img {
+    width:100%;
+}
