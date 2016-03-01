@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Discography
-permalink: /discography/
+permalink: /discography2/
 ---
 
   {% for album in albums %}
