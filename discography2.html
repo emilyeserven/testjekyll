@@ -1,0 +1,11 @@
+---
+layout: page
+title: Discography
+permalink: /discography2/
+---
+
+  {% for album in site.albums %}
+        <h2>{{title}}</h2>
+        <img src="{{item.url}}" alt="{{item.alt}}" />
+        {{content}}
+  {% endfor %}
