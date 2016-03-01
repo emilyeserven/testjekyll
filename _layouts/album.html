@@ -1,0 +1,7 @@
+---
+layout: default
+---
+<h2>{{ album.name }}</h2>
+    {% for item in album.image %}
+        <img src="{{item.url}}" alt="{{item.alt}}" />
+    {% endfor %}
