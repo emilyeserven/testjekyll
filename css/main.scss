@@ -59,6 +59,12 @@ h2 {
     margin-bottom:5px;
     line-height:1.2em;
 }
+.anchor {
+    display: block;
+    position: relative;
+    top: -100px;
+    visibility: hidden;
+}
 .site-header {
     background-color: $brand-color;
     border-bottom: 0px;
