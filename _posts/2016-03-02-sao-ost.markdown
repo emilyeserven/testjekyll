@@ -3,7 +3,7 @@ layout: post
 title:  "Sword Art Online Original Soundtrack Volume 1"
 date:   2016-03-03 19:19:04 -0500
 permalink: /sao/
-categories: album
+tags: [album]
 image-url: assets/images/fz-ost.jpg
 ---
 1. fate to zero (3:02)
