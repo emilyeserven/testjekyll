@@ -53,7 +53,7 @@ title: Home
     {% if post.tags contains 'news' %}
     <b>{{ post.title }}</b>
     <p>
-      {{ post.excerpt }}<br /><a href="{{ site.baseurl }}/{{ post.url }}">Read more</a>
+      {{ post.excerpt }}<br /><a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
     </p>
     {% endif %}
   {% endfor %}
