@@ -7,7 +7,7 @@ permalink: /discography/
 {% for post in site.posts %}
   {% if post.tags contains 'album' %}
     <div class="album-tile">
-      <div class="anchor" id="{{ post.quickid }}">
+      <div class="anchor" id="{{ post.quickid }}"></div>
       <h2 class="album-title">{{ post.title }}</h2>
       <img class="album-image" src="{{ post.image.url }}" alt="{{ post.image.alt }}"/>
       <div class="album-tracklist">
