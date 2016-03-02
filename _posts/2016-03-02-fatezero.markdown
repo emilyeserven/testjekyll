@@ -1,9 +1,13 @@
 ---
 layout: post
-title: Fate/Zero Original Soundtrack Volume 2
-img-url: assets/images/fz-ost.jpg
+title:  Fate/Zero Original Soundtrack Volume 2
+date:   2016-03-02
+permalink: /madoka-ost/
+tags: [album]
+image:
+    url: ../assets/images/fz-ost.jpg
+    alt: Album Cover
 ---
-
 1. fate to zero (3:02)
 2. for him (0:39)
 3. army of the king (2:13)

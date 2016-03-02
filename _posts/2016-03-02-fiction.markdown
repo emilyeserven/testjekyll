@@ -1,0 +1,24 @@
+---
+layout: post
+title:  Fiction
+date:   2016-03-02
+permalink: /madoka-ost/
+tags: [album]
+image:
+    url: ../assets/images/fiction-junction.jpg
+    alt: Album Cover
+---
+1. key of the twilight
+2. cynical world
+3. fake wings
+4. fiction
+5. vanity
+6. red rose
+7. canta per me
+8. zodiacal sign
+9. awaking
+10. open your heart
+11. winter
+12. salva nos
+13. lullaby
+14. echo (instrumental)

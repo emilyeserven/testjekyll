@@ -1,0 +1,23 @@
+---
+layout: post
+title:  Puella Magi Madoka Magica Original Soundtrack Volume 1
+date:   2016-03-02
+permalink: /madoka-ost/
+tags: [album]
+image:
+    url: ../assets/images/madoka.jpg
+    alt: Album Cover
+---
+1. Sis puella magica! (2m48s)
+2. Salve, terrae magicae (1m29s)
+3. Gradus prohibitus (3m35s)
+4. Credens justitiam (1m56s)
+5. Clementia (1m58s)
+6. Desiderium (1m41s)
+7. Conturbatio (1m28s)
+8. Postmeridie (1m39s)
+9. Puella in somnio (1m56s)
+10. Umbra nigra (1m43s)
+11. Terror adhaerens (3m49s)
+12. Scaena felix (1m50s)
+13. Pugna cum maga (2m14s)
