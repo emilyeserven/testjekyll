@@ -3,20 +3,13 @@ layout: page
 title: Discography
 permalink: /discography/
 ---
-
-<div class="home">
-
-  <div class="about-artist">
-    <div class="left-col">
-      <!-- IMAGE -->
-    </div>
-    <div class="right-col">
-      <!-- IMAGE -->
-    </div>
-  </div>
-  <div id="fatezero" class="album">
-
-  </div>
+{% for post in site.posts %}
+    {% if post.categories contains 'album' %}
+      <h2>{{page.title}}</h2>
+      <img src="{{page.image.url}}" alt="{{page.image.alt}}" />
+      {{content}}
+    {% endif %}
+{% endfor %}
   <div id="sao" class="album">
 ##Sword Art Online Original Soundtrack Volume 1
 ![Sword Art Online Album Cover](assets/images/sao-ost.jpg)
