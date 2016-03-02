@@ -6,13 +6,14 @@ permalink: /discography/
 
 {% for post in site.posts %}
   {% if post.tags contains 'album' %}
-    <div class="album-tile" id="{{ post.quickid }}">
+    <div class="album-tile">
+      <div class="anchor" id="{{ post.quickid }}">
       <h2 class="album-title">{{ post.title }}</h2>
       <img class="album-image" src="{{ post.image.url }}" alt="{{ post.image.alt }}"/>
       <div class="album-tracklist">
             <h3>Tracklist:</h3>
             {{ post.content }}
-            <a href="{{ site.url }}{{ site.baseurl }}">Back to Home</a>
+            <a href="http://emilyeserven.github.io/">Back to Home</a>
             <br />
       </div>
 </div>
