@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  Fate/Zero Original Soundtrack Volume 2
-date:   2016-03-02
-permalink: /madoka-ost/
+date:   2016-02-27
 tags: [album]
 image:
     url: ../assets/images/fz-ost.jpg
     alt: Album Cover
+releasedate: September 19, 2012
+quickid: fatezero
 ---
 1. fate to zero (3:02)
 2. for him (0:39)

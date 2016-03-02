@@ -1,0 +1,10 @@
+---
+layout: post
+title:  News 1
+date:   2016-03-02
+tags: [news]
+excerpt: The official website for the anime adaptation of Kei Sanbe's Boku dake ga Inai Machi...
+---
+The official website for the anime adaptation of Kei Sanbe's Boku dake ga Inai Machi (The Town Where Only I Am Missing) manga began streaming a second commercial on Friday, offering a first preview of the animation, music, and character voices for the series. The video reveals that Yuki Kajiura (Puella Magi Madoka Magica, Sword Art Online) composed the music for the anime, and that the series will premiere on January 7 on Fuji TV's Noitamina block.
+
+[Source: Anime News Network](https://www.animenewsnetwork.com/news/2015-11-26/yuki-kajiura-composes-music-for-boku-dake-ga-inai-machi-tv-anime/.95832)

@@ -7,16 +7,16 @@
 
 # Site settings
 title: Yuki Kajura Discography
-email: emily.e.serven@gm
+email: emily.e.serven@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Test website for UConnStamford's Digital Media and Design
   web design and development class.
-#baseurl: "" # the subpath of your site, e.g. /blog
-baseurl: "/testjekyll" # the subpath of your site, e.g. /blog
+#baseurl: "" # Hide this if pushing to github
+baseurl: "/testjekyll" # Hide this if testing on local environment
 #url: "localhost" # the base hostname & protocol for your site
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: emilyeserven
+github_username:  emilyeserven
 
 # Build settings
 markdown: kramdown

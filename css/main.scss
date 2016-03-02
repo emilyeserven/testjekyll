@@ -16,7 +16,9 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      #582A72;
+$secondary-color:  #9774AB;
+$link-color:       #CB86AE;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -51,27 +53,55 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
-.left-col {
-    float:left;
-    width:30%;
-    margin-right:5%;
+h2 {
+    border-bottom: $secondary-color solid 2px;
+    color: $brand-color;
+    margin-bottom:5px;
+    line-height:1.2em;
 }
-.right-col {
-    width: 65%;
-    float:right;
-}
-.left-col img {
+.site-header {
+    background-color: $brand-color;
+    border-bottom: 0px;
+    border-top: $secondary-color 5px solid;
+    border-bottom: $secondary-color 0px solid;
+    position:fixed;
     width:100%;
+    a.site-title, nav .trigger a {
+        color:#fff;
+        font-style: initial;
+    }
 }
-.album {
-    width:49%;
+.page-content {
+    padding: 50px 0 30px;
+    //background-color: $brand-color;
+    .wrapper {
+        padding: 30px;
+        background-color:#fff;
+    }
+}
+.albumgroup .releasedate {
+    width: 30%;
+    float: left;
+}
+.album-tile {
+    width: 49%;
     display: inline-block;
-}
-.album:nth-of-type(odd) {
-    margin-right:1%;
-}
-.album img {
-    width:100%;
+    vertical-align: top;
+    margin-bottom:10px;
+
+    &:nth-of-type(odd) {
+        margin-right:1%;
+    }
+    img {
+        width:100%;
+    }
+    h2 {
+        background-color: $secondary-color;
+        color: #fff;
+        margin-bottom: 0px;
+        line-height: 1.2em;
+        padding: 10px;
+    }
 }
 .clearfix:after {
      visibility: hidden;
@@ -86,3 +116,21 @@ $on-laptop:        800px;
 * html .clearfix { height: 1%; }
 .clearfix { display: block; }
 /* close commented backslash hack */
+.album-tile {
+}
+.about-artist img {
+    float:left;
+    width: 40%;
+    padding-right:20px;
+}
+
+b {
+    color:#26033A;
+}
+a {
+    color: $link-color;
+    font-style:italic;
+    &:visited {
+        color: #882D62;
+    }
+}

@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  Sword Art Online OST Volume 1
-date:   2016-03-02
-permalink: /sao/
+date:   2016-02-28
 tags: [album]
 image:
     url: ../assets/images/sao-ost.jpg
     alt: Album Cover
+releasedate: January 23, 2013
+quickid: sao
 ---
 1. fate to zero (3:02)
 2. for him (0:39)

@@ -5,12 +5,16 @@ permalink: /discography/
 ---
 
 {% for post in site.posts %}
-    <div class="album-tile">
+  {% if post.tags contains 'album' %}
+    <div class="album-tile" id="{{ post.quickid }}">
       <h2 class="album-title">{{ post.title }}</h2>
       <img class="album-image" src="{{ post.image.url }}" alt="{{ post.image.alt }}"/>
       <div class="album-tracklist">
             <h3>Tracklist:</h3>
             {{ post.content }}
+            <a href="/">Back to Home</a>
+            <br />
       </div>
 </div>
+{% endif %}
 {% endfor %}

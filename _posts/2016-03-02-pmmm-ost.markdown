@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  Puella Magi Madoka Magica Original Soundtrack Volume 1
-date:   2016-03-02
+title:  Madoka OST Volume 1
+date:   2016-03-01
 permalink: /madoka-ost/
 tags: [album]
 image:
     url: ../assets/images/madoka.jpg
     alt: Album Cover
+releasedate: May 25, 2011
+quickid: madoka
 ---
 1. Sis puella magica! (2m48s)
 2. Salve, terrae magicae (1m29s)

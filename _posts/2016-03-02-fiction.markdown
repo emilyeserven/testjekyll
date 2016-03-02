@@ -2,11 +2,12 @@
 layout: post
 title:  Fiction
 date:   2016-03-02
-permalink: /madoka-ost/
 tags: [album]
 image:
     url: ../assets/images/fiction-junction.jpg
     alt: Album Cover
+releasedate: August 3, 2006
+quickid: fiction
 ---
 1. key of the twilight
 2. cynical world
