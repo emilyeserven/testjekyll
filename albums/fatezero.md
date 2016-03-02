@@ -1,9 +1,7 @@
 ---
-layout: album
+layout: post
 title: Fate/Zero Original Soundtrack Volume 2
-image:
-  - alt: Fate Zero Album Cover
-    url: assets/images/fz-ost.jpg
+img-url: assets/images/fz-ost.jpg
 ---
 
 1. fate to zero (3:02)
