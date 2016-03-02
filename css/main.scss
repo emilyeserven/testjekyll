@@ -69,16 +69,17 @@ h2 {
     background-color: $brand-color;
     border-bottom: 0px;
     border-top: $secondary-color 5px solid;
-    border-bottom: $secondary-color 0px solid;
+    border-bottom: #fff 2px solid;
     position:fixed;
     width:100%;
     a.site-title, nav .trigger a {
         color:#fff;
         font-style: initial;
+        letter-spacing: 1px;
     }
 }
 .page-content {
-    padding: 50px 0 30px;
+    padding: 50px 0 0;
     //background-color: $brand-color;
     .wrapper {
         padding: 30px;
@@ -139,4 +140,19 @@ a {
     &:visited {
         color: #882D62;
     }
+}
+a.button {
+    color: #fff;
+    background-color: $link-color;
+    font-style: initial;
+    padding: 1px 10px 1px 8px;
+    display:inline-block;
+    &:hover {
+        text-decoration: none;
+        background-color:$brand-color;
+    }
+}
+h3 {
+    margin-top: 10px;
+    margin-bottom: 0px;
 }
